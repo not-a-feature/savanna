@@ -27,7 +27,7 @@ A variety of models have been trained and finetuned on Savanna, including:
 
 Savanna is a framework developed and maintained by a small team (< 5 people), tailored to the specific needs of the projects above. With careful tuning of the distributed training strategy and architecture, it achieves high MFU on H100s at the thousand-GPU scale. **It is not a production-ready framework, expect rough edges if you don't know what you're doing.** It can serve as a good starting point for research on large-scale training of multi-hybrids. We recommend digging around the training configs for the models above: all the details are there.
 
-For inference using multi-hybrid, check out the [vortex](https://github.com/Zymrael/vortex) project.
+For inference using multi-hybrids, check out the [vortex](https://github.com/Zymrael/vortex) project.
 
 <div align="center">
 <img src="resources/savanna_.png" alt="StripedHyena 2" width="900"/>
