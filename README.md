@@ -50,7 +50,7 @@ python launch.py train.py -d configs data/<config>.yml model/<model>.yml
 
 ## How do Convolutional Multi-Hybrid Architectures Work?
 
-Multi-hybrid models combine many different classes of operators such as convolutions to balance quality and efficiency at short and long context, compared to previous generation striped hybrids. *Convolutional* multi-hybrids combine multiple input-dependent convolutional operators: Hyena-SE, Hyena-MR, Hyena-LI. These use the standard Hyena structure with different parametrizations for the inner convolutions. 
+Multi-hybrid models combine many different classes of operators such as convolutions to balance quality and efficiency at short and long context, compared to previous generation striped hybrids. *Convolutional* multi-hybrids combine multiple input-dependent convolutional operators: Hyena-SE, Hyena-MR, Hyena-LI. These use the standard Hyena structure with different parametrizations for the convolutions. 
 
 Multi-hybrid architectures excel at modeling byte or character-tokenized data, such as DNA sequences.
 
