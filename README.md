@@ -110,4 +110,6 @@ to then fix these changes.  Not all changes will be fixable, some will need be m
 
 Savanna is developed by Michael Poli ([Zymrael](https://github.com/Zymrael)), Eric Nguyen ([exnx](https://github.com/exnx)), Jerome Ku ([jeromeku](https://github.com/jeromeku)), Brian Hie ([brianhie](https://github.com/brianhie)), with contributions from Garyk Brixi ([garykbrixi](https://github.com/garykbrixi)), David W. Romero ([dwromero](https://github.com/dwromero)), Dave Burke ([daveyburke](https://github.com/daveyburke)), Brandon Yang ([bclyang](https://github.com/bclyang)), Armin W. Thomas ([athms](https://github.com/athms)), Ali Taghibakhshi ([JRD971000](https://github.com/JRD971000)), Greg Brockman ([gdb](https://github.com/gdb)).
 
-## Citation
+## Cite
+
+If you find this project useful, consider citing the following [references](CITE.md).
