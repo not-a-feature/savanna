@@ -42,7 +42,7 @@ If TransformerEngine wheel installation fails on your cluster, check the [offici
 
 ## Quick Start 
 
-Tokenize with [TODO], then create a model and data config. Finally, launch with:
+After tokenization of a dataset split (or splits), launch with:
 
 ```bash
 python launch.py train.py -d configs data/<config>.yml model/<model>.yml
