@@ -7,7 +7,7 @@ Pretraining infrastructure for research and application of [convolutional multi-
 
 ## What is Savanna?
 
-Savanna is an open source pretraining framework for alternative architectures. It is built on top of components from other open-source projects, including:
+Savanna is an open-source pretraining framework for alternative architectures. It is built on top of components from other open-source projects, including:
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed): ZeRO sharding
 * [GPT-NeoX](https://github.com/EleutherAI/gpt-neox): general repository structure, configuration
 * [TransformerEngine](https://github.com/NVIDIA/TransformerEngine): FP8 support
