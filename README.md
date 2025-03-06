@@ -2,7 +2,7 @@
     <h1>Savanna</h1>
 </div>
 
-Pretraining infrastructure for research and application of [convolutional multi-hybrid models](resources/stripedhyena2.pdf) (StripedHyena 2).
+Pretraining infrastructure for research and application of [convolutional multi-hybrid models](paper.pdf) (StripedHyena 2).
 
 
 ## What is Savanna?
